@@ -4,7 +4,7 @@ permalink: /
 title: "Knowledge, Attitude and Practice Surveys"
 excerpt: "(Check back here in early 2024 for this new SOP)"
 image:
-  feature: /banner.jpg
+  feature: /banners/home_banner.png
 ---
 <div align="center"><p style="font-size:20px;">Nicole Hamre, Tim Langlois, Genevieve Phillips, Dave Guilfoyl, Jennifer Lavers, Sharnae Watson, Vanessa Adams, Charlotte Aston, Simon Bryars, Jeremy De Valck, Francisco Gelves-Gomez, Brooke Gibbons, Carol Martin, Daryl McPhee, Jonathan Mitchell, Emily Ogier, Rachel Przeslawski, Michelle Rose, Brooke Shields, Amanda Smith, Alaya Spencer-Cotton; <a href="mailto:matthew.navarro@uwa.edu.au">Matthew Navarro</a></p></div><br>
 
