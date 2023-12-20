@@ -13,7 +13,7 @@ To demonstrate the use of MPA recreational users’ KAP surveys, we present data
 
 An example of an MPA recreational users’ knowledge data output is displayed in Figure 3, which shows that in 2019, 12% of recreational fishers were aware of the Geographe or South-West Corner Marine Park. More recent surveys in 2023 show awareness has increased to 36%, representing a statistically significant increase (χ2 = 11.77, p &lt; 0.001). The low but improving awareness of these MPAs suggest that efforts to date aimed at increasing awareness have had a positive effect (e.g. boat ramp signage has been installed and zoning has been added to major boating apps in the region); however, significant progress is still to be made to match awareness of the adjacent state MPAs, measured at 81% in 2019 and 74% in 2023 (Navarro et al. 2021). To understand this difference in recreational fisher awareness, research could investigate the drivers of KAP and differences in management and communication between the MPAs. In turn, this could lead to MPA communication, education, and compliance management tailored to the user groups with the lowest awareness and targeted to high use areas evident from practice data. Similar trends over time can be inferred about changes in attitudes towards zoning and practices in MPAs as well (see examples in Appendix 6).
 
-![alt_text](images/figures/figure_3.png")
+![alt_text](images/figures/figure_3.png)
 
 **Figure 3:** The percentage of recreational fishers aware of the Geographe, South-west and Ngari Capes Marine Parks in 2019 and 2023 with 95% confidence intervals. The vertical dotted lines represent the implementation of zoning for each MPA.
 
