@@ -43,7 +43,7 @@ The sampling effort required for a robust sample size will depend on how the dat
 
 Restrictive spatial and temporal sampling design of probability-based face-to-face MPA recreational users' KAP surveys is outlined in five steps below:
 
-_Step 1: Identify the relevant MPA access points that you wish to sample _
+_Step 1: Identify the relevant MPA access points that you wish to sample_
 
 This may include boat ramps, beach launching locations (for boat-based recreational users) and/or shore access points. It is often impractical to sample all possible sites; therefore local knowledge (e.g., that of First Nations rangers or relevant management agency) can be used to identify a minimum set of heavily visited access points. This will normally exclude remote sites, and their recreational users which may differ systematically from those at popular sites (e.g., part of their motivation for recreation could revolve around solitude). If excluded it should be highlighted that the sample does not represent remote users of the MPA. 
 
