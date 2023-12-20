@@ -4,7 +4,7 @@ permalink: /demonstration-of-outputs
 title: "Demonstration of outputs"
 excerpt: "<br>"
 image:
-  feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
+  feature: /home_banner.png
 layout: home
 
 ---
