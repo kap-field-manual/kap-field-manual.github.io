@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /post-survey-procedures
+permalink: /analysis-and-release
 title: "Analysis and release"
 excerpt: "<br>"
 image:
