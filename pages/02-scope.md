@@ -15,6 +15,6 @@ Whilst guiding principles for social-economic science are commonly published and
 
 This field manual describes six sequential steps for planning, conducting, analysing and publishing results from MPA recreational users' KAP surveys (Figure 1). The six steps are described in detail below. 
 
-![alt_text](images/figures/figure_1.png")
+![alt_text](images/figures/figure_1.png "image_tooltip")
 
 **Figure 1:** The six steps outlined in this field manual for conducting MPA recreational users' KAP surveys.
