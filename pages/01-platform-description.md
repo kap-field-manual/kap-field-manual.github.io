@@ -4,7 +4,7 @@ permalink: /platform-description
 title: "Platform Description"
 excerpt: "<br>"
 image:
-  feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
+  feature: /home_banner.png
 toc: true
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
