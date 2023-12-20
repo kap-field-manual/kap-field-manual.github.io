@@ -4,7 +4,7 @@ permalink: /field-procedures
 title: "Field Procedures"
 excerpt: "<br>"
 image:
-  feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
+  feature: /home_banner.png
 layout: home
 
 ---
