@@ -21,14 +21,14 @@ It is important that free, prior and informed consent is obtained, and that Indi
 
 Whilst it is often desirable to tailor a survey's questions or topics to specific areas or contexts, this survey is designed to be standardised and transferable between locations. However, modules (e.g., an economic module) can be added to the end of the survey to target certain topics or enhance specific analyses. 
 
-The survey template ([x 1](https://kap-field-manual.github.io/files/Attachment%201.pdf)) has five sections: (1) Pre-survey, which includes interview metadata (e.g., surveyor ID, survey site), survey introduction and informed consent protocol; (2) Practices, which records details of activities the respondent has participated in on a given day; (3) Knowledge, which captures the awareness the respondent has for local jurisdictions, MPAs and their zonation; (4) Attitudes, which collects data on the attitudes and perceptions towards MPA zones; and (5) Demographics, for collecting information about the respondents.
+The survey template ([Appendix 1](https://kap-field-manual.github.io/files/Attachment%201.pdf)) has five sections: (1) Pre-survey, which includes interview metadata (e.g., surveyor ID, survey site), survey introduction and informed consent protocol; (2) Practices, which records details of activities the respondent has participated in on a given day; (3) Knowledge, which captures the awareness the respondent has for local jurisdictions, MPAs and their zonation; (4) Attitudes, which collects data on the attitudes and perceptions towards MPA zones; and (5) Demographics, for collecting information about the respondents.
 
 
 ### Survey software
 
-We recommend ESRI’s Survey123 software in combination with a light-weight weather proof tablet device, and managing the surveys using ESRI’s desktop app Survey123 Connect due to its flexibility, and extensive options to customise question parameters. Additionally, Survey123’s online platform offers real time plots and statistics for data review, which is useful for monitoring data collection. Key software features and alternative software options are detailed in [x 2](https://kap-field-manual.github.io/files/Attachment%202.pdf). 
+We recommend ESRI’s Survey123 software in combination with a light-weight weather proof tablet device, and managing the surveys using ESRI’s desktop app Survey123 Connect due to its flexibility, and extensive options to customise question parameters. Additionally, Survey123’s online platform offers real time plots and statistics for data review, which is useful for monitoring data collection. Key software features and alternative software options are detailed in [Appendix 2](https://kap-field-manual.github.io/files/Attachment%202.pdf). 
 
-The XLSform survey template provided in [x 3](https://kap-field-manual.github.io/files/Attachment%203.xlsx) can be uploaded into Survey123 Connect to customise a survey to a particular location. 
+The XLSform survey template provided in [Appendix 3](https://kap-field-manual.github.io/files/Attachment%203.xlsx) can be uploaded into Survey123 Connect to customise a survey to a particular location. 
 
 
 ## Design sampling plan
