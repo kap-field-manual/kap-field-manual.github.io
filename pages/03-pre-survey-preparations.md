@@ -21,14 +21,14 @@ It is important that free, prior and informed consent is obtained, and that Indi
 
 Whilst it is often desirable to tailor a survey's questions or topics to specific areas or contexts, this survey is designed to be standardised and transferable between locations. However, modules (e.g., an economic module) can be added to the end of the survey to target certain topics or enhance specific analyses. 
 
-The survey template (Appendix 1) has five sections: (1) Pre-survey, which includes interview metadata (e.g., surveyor ID, survey site), survey introduction and informed consent protocol; (2) Practices, which records details of activities the respondent has participated in on a given day; (3) Knowledge, which captures the awareness the respondent has for local jurisdictions, MPAs and their zonation; (4) Attitudes, which collects data on the attitudes and perceptions towards MPA zones; and (5) Demographics, for collecting information about the respondents.
+The survey template ([x 1](https://kap-field-manual.github.io/files/Attachment%201.pdf)) has five sections: (1) Pre-survey, which includes interview metadata (e.g., surveyor ID, survey site), survey introduction and informed consent protocol; (2) Practices, which records details of activities the respondent has participated in on a given day; (3) Knowledge, which captures the awareness the respondent has for local jurisdictions, MPAs and their zonation; (4) Attitudes, which collects data on the attitudes and perceptions towards MPA zones; and (5) Demographics, for collecting information about the respondents.
 
 
 ### Survey software
 
-We recommend ESRI’s Survey123 software in combination with a light-weight weather proof tablet device, and managing the surveys using ESRI’s desktop app Survey123 Connect due to its flexibility, and extensive options to customise question parameters. Additionally, Survey123’s online platform offers real time plots and statistics for data review, which is useful for monitoring data collection. Key software features and alternative software options are detailed in Appendix 2. 
+We recommend ESRI’s Survey123 software in combination with a light-weight weather proof tablet device, and managing the surveys using ESRI’s desktop app Survey123 Connect due to its flexibility, and extensive options to customise question parameters. Additionally, Survey123’s online platform offers real time plots and statistics for data review, which is useful for monitoring data collection. Key software features and alternative software options are detailed in [x 2](https://kap-field-manual.github.io/files/Attachment%202.pdf). 
 
-The XLSform survey template provided in Appendix 3 can be uploaded into Survey123 Connect to customise a survey to a particular location. 
+The XLSform survey template provided in [x 3](https://kap-field-manual.github.io/files/Attachment%203.xlsx) can be uploaded into Survey123 Connect to customise a survey to a particular location. 
 
 
 ## Design sampling plan
@@ -37,7 +37,7 @@ We recommend that MPA recreational users’ KAP surveys employ a probability-bas
 
 Probability-based sampling, where every recreational user has a known probability of being sampled, involves the development of a survey shift schedule with a known set of sampling probabilities (Cornesse & Bosnjak 2018). Weighting the survey schedule to oversample busy locations and time periods (e.g., weekends, holidays) maximises sampling efficiency, especially in remote locations. 
 
-Using a restrictive spatial and temporal sampling design (Smallwood & Ryan 2020) is a pragmatic approach to conducting MPA recreational users’ KAP surveys. However, the data collected is only truly representative of the sampling time frame, so while we encourage comparisons across MPAs, this should be interpreted attentively. To aid this interpretation it is essential that detailed information on the sampling design should be maintained and recorded in any resulting metadata products (see Appendix 1 for shift metadata template). 
+Using a restrictive spatial and temporal sampling design (Smallwood & Ryan 2020) is a pragmatic approach to conducting MPA recreational users’ KAP surveys. However, the data collected is only truly representative of the sampling time frame, so while we encourage comparisons across MPAs, this should be interpreted attentively. To aid this interpretation it is essential that detailed information on the sampling design should be maintained and recorded in any resulting metadata products (see [Appendix 1](https://kap-field-manual.github.io/files/Attachment%201.pdf) for shift metadata template). 
 
 The sampling effort required for a robust sample size will depend on how the data are intended to be used, and the popularity of the access points sampled. As a general rule, expect an average of five interviews per four-hour shift at a high-use boat ramp or shore access point. Whilst some days may far exceed this, particularly during school holidays and in fine weather, others will have very few, if any, interviews completed. For the calculation of broad metrics (e.g., % awareness of zones), a target of 100 surveys should be completed (Navarro et al. 2021), though additional surveys will provide more robust data for detailed modelling (e.g., influence of fisher avidity). This corresponds to approximately 20 four-hour shifts. 
 
@@ -73,7 +73,7 @@ It is common for bad weather (or other circumstances) to mean that there are zer
 
 _Step 5: Inverse probability sampling_
 
-Where a weighted random sampling plan has been used to oversample priority sites or time periods (e.g., boat ramps, school holidays), or when there have been unexpected changes to the sampling plan, inverse probability weights should be used in analyses to correct for sampling bias and increase representation across sampling time frame (see Appendix 4 for details on calculating inverse probability weights). 
+Where a weighted random sampling plan has been used to oversample priority sites or time periods (e.g., boat ramps, school holidays), or when there have been unexpected changes to the sampling plan, inverse probability weights should be used in analyses to correct for sampling bias and increase representation across sampling time frame (see [Appendix 4](https://kap-field-manual.github.io/files/Attachment%204.pdf) for details on calculating inverse probability weights). 
 
 
 ## Obtain approvals
