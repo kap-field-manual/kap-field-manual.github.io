@@ -6,10 +6,14 @@ excerpt: "(Check back here in early 2024 for this new SOP)"
 image:
   feature: /banner.jpg
 ---
-<div align="center"><p style="font-size:20px;">Nicole Hamre, Tim Langlois, Genevieve Phillips, Dave Guilfoyl, Jennifer Lavers, Sharnae Watson, Vanessa Adams, Charlotte Aston, Simon Bryars, Jeremy De Valck, Francisco Gelves-Gomez, Brooke Gibbons, Carol Martin, Daryl McPhee, Jonathan Mitchell, Emily Ogier, Rachel Przeslawski, Michelle Rose, Brooke Shields, Amanda Smith, Alaya Spencer-Cotton; Matthew Navarro* *<a href="mailto:matthew.navarro@uwa.edu.au">matthew.navarro@uwa.edu.au</a></p></div><br>
-<img src="images/banners/09_5x8.jpg" width="100%">
+<div align="center"><p style="font-size:20px;">Nicole Hamre, Tim Langlois, Genevieve Phillips, Dave Guilfoyl, Jennifer Lavers, Sharnae Watson, Vanessa Adams, Charlotte Aston, Simon Bryars, Jeremy De Valck, Francisco Gelves-Gomez, Brooke Gibbons, Carol Martin, Daryl McPhee, Jonathan Mitchell, Emily Ogier, Rachel Przeslawski, Michelle Rose, Brooke Shields, Amanda Smith, Alaya Spencer-Cotton; <a href="mailto:matthew.navarro@uwa.edu.au">Matthew Navarro</a></p></div><br>
+
+<img src="images/home-page.png" width="100%">
+ETNTAC Rangers and UWA researcher conducting KAP Surveys on Wudjari Sea Country
+
 <br>
 <br>
+
 <strong>Chapter citation:</strong><br>Hamre, Nicole; Langlois, Tim; Phillips, Genevieve; Guilfoyle, Dave; Lavers, Jennifer; Watson, Sharnae; Adams, Vanessa; Aston, Charlotte; Bryars, Simon; De Valck, Jeremy; Gelves-Gomez, Francisco; Gibbons, Brooke; Martin, Carol; McPhee, Daryl; Mitchell, Jonathan; Ogier, Emily; Przeslawski, Rachel; Rose, Michelle; Shields, Brooke; Smith, Amanda; Spencer-Cotton, Alaya; Navarro, Matthew. 2024. A field manual for marine protected area recreational user knowledge, attitude and practice (KAP) surveys. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters</em>, <em>Version </em>1. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP).
 
 | Chapter Contents                                                                                                                                   |
