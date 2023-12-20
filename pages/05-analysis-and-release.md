@@ -4,7 +4,7 @@ permalink: /analysis-and-release
 title: "Analysis and release"
 excerpt: "<br>"
 image:
-  feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
+  feature: /home_banner.png
 layout: home
 
 ---
