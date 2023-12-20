@@ -11,16 +11,20 @@
   url: https://kap-field-manual.github.io/scope
   excerpt: ""
   image: /5x8/scope_teaser.jpg
-- title: "Sampling Design"
-  url: https://kap-field-manual.github.io/sampling-design
-  excerpt: ""
-  image: /5x8/sampling-design_teaser.jpg
 - title: "Pre-survey Preparations"
   url: https://kap-field-manual.github.io/pre-survey-preparations
   excerpt: ""
   image: /5x8/presurvey-preparations_teaser.jpg
 - title: "Field Procedures"
   url: https://kap-field-manual.github.io/field-procedures
+  excerpt: ""
+  image: /5x8/field-procedures_teaser.jpg
+- title: "Analysis and release"
+  url: https://kap-field-manual.github.io/analysis-and-release
+  excerpt: ""
+  image: /5x8/field-procedures_teaser.jpg
+- title: "Demonstration of outputs"
+  url: https://kap-field-manual.github.io/demonstration-of-outputs
   excerpt: ""
   image: /5x8/field-procedures_teaser.jpg
 - title: "Field Manual Maintenance"
