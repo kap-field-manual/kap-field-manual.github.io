@@ -14,7 +14,7 @@ Surveyors should have access to a tablet device hosting the survey instrument, a
 
 On a typical day in the field each surveyor will be allocated to a site/shift pre-determined in the sampling plan. Upon arrival at a sampling site, the surveyor will fill out the metadata (template in Appendix 1), including; the researcher conducting the survey, what site are they surveying, start and end time, number of boat trailers (if at a boat ramp) or approximate number of people (if at a beach access point) and any additional comments.
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/figures/figure_2.png")
 
 **Figure 2:** Equipment needed to conduct face-to-face MPA recreational users' KAP surveys; a) tablet hosting survey instrument and charging cable, b) portable power pack and charging cable, c) bluetooth GPS and charging cable, d) charging equipment, e) folder containing copies of relevant approvals, permits and participant information forms, f) personal protective equipment and uniform, which will vary depending on survey location, climate, and institution specific safety protocols.
 
