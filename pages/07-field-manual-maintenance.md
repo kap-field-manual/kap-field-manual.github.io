@@ -13,47 +13,41 @@ In accordance with the universal field manual maintenance protocol described in 
 
 The version control for Chapter 12 (KAP surveys) is below:
 
-<tr>
-   <td>Version Number
-
+<table>
+<thead>
+  <tr>
+   <td><strong>Version Number</strong>
    </td>
-   <td>Description
-
+   <td><strong>Description</strong>
    </td>
-   <td>Date
-
+   <td><strong>Date</strong>
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>1
-
    </td>
-   <td>There was no KAP manual included in Version 1 of the field manual package
-
+   <td>There was no KAP manual included in Version 1 of the field manual package.
    </td>
    <td>28 Feb 2018
-
    </td>
   </tr>
   <tr>
    <td>2
-
    </td>
    <td>There was no KAP manual included in Version 2 of the field manual package
-
    </td>
    <td>July 2020
-
    </td>
   </tr>
   <tr>
    <td>3
-
    </td>
    <td>Publicly released as Chapter 12 through online portal
-
    </td>
    <td>TBC
-
    </td>
   </tr>
+  </tbody>
+</table>
