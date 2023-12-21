@@ -13,7 +13,7 @@ In accordance with the universal field manual maintenance protocol described in 
 
 The version control for Chapter 12 (KAP surveys) is below:
 
-  <tr>
+<tr>
    <td>Version Number
 
    </td>
