@@ -1,12 +1,12 @@
 ---
-layout: home
 permalink: /platform-description
 title: "Platform Description"
 excerpt: "<br>"
 image:
   feature: /home_banner.png
-toc: true
+layout: home
 ---
+
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
 Marine Protected Area (MPA) recreational Knowledge, Attitudes and Practice (KAP) surveys are a research approach to elicit basic quantitative information about marine recreational users' Knowledge about, Attitudes Towards and Practices within MPAs. 
