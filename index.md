@@ -8,8 +8,8 @@ image:
 ---
 <div align="center"><p style="font-size:20px;">Nicole Hamre, Tim Langlois, Genevieve Phillips, Dave Guilfoyl, Jennifer Lavers, Sharnae Watson, Vanessa Adams, Charlotte Aston, Simon Bryars, Jeremy De Valck, Francisco Gelves-Gomez, Brooke Gibbons, Carol Martin, Daryl McPhee, Jonathan Mitchell, Emily Ogier, Rachel Przeslawski, Michelle Rose, Brooke Shields, Amanda Smith, Alaya Spencer-Cotton; <a href="mailto:matthew.navarro@uwa.edu.au">Matthew Navarro</a></p></div><br>
 
-<!-- This is commented out. --><img src="images/index.png" width="100%">
-<!-- This is commented out. -->ETNTAC Rangers and UWA researcher conducting KAP Surveys on Wudjari Sea Country
+<!-- This is commented out. <img src="images/index.png" width="100%">-->
+<!-- This is commented out. ETNTAC Rangers and UWA researcher conducting KAP Surveys on Wudjari Sea Country-->
 
 <strong>Chapter citation:</strong><br>Hamre, Nicole; Langlois, Tim; Phillips, Genevieve; Guilfoyle, Dave; Lavers, Jennifer; Watson, Sharnae; Adams, Vanessa; Aston, Charlotte; Bryars, Simon; De Valck, Jeremy; Gelves-Gomez, Francisco; Gibbons, Brooke; Martin, Carol; McPhee, Daryl; Mitchell, Jonathan; Ogier, Emily; Przeslawski, Rachel; Rose, Michelle; Shields, Brooke; Smith, Amanda; Spencer-Cotton, Alaya; Navarro, Matthew. 2024. A field manual for marine protected area recreational user knowledge, attitude and practice (KAP) surveys. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters</em>, <em>Version </em>1. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP).
 
