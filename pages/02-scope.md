@@ -5,7 +5,6 @@ excerpt: "<br>"
 image:
   feature: /home_banner.png
 layout: home
-
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
