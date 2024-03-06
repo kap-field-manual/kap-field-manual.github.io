@@ -12,8 +12,6 @@ image:
 
 <strong>Chapter citation:</strong><br>Hamre, Nicole; Langlois, Tim; Phillips, Genevieve; Guilfoyle, Dave; Lavers, Jennifer; Watson, Sharnae; Adams, Vanessa; Aston, Charlotte; Bryars, Simon; De Valck, Jeremy; Gelves-Gomez, Francisco; Gibbons, Brooke; Martin, Carol; McPhee, Daryl; Mitchell, Jonathan; Ogier, Emily; Przeslawski, Rachel; Rose, Michelle; Shields, Brooke; Smith, Amanda; Spencer-Cotton, Alaya; Navarro, Matthew. 2024. A field manual for marine protected area recreational user knowledge, attitude and practice (KAP) surveys. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters</em>, <em>Version </em>1. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP).
 
-.
-
 | Chapter Contents                                                                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
 |  **[Platform Description](https://kap-field-manual.github.io/platform-description)**                                                               |
